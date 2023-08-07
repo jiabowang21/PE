@@ -1,0 +1,4 @@
+Els arxius de dades i d'R s'han realitzat amb la distribució d'Ubuntu 20.04 LTS (treballat amb full de càlcul LibreOffice i RStudio de Linux),
+per tant, hi podria haver problemes de format si s'obren amb altres distribucions com Windows o MAC.
+
+De totes maneres, l'script en R i les dades es troben a l'apartat d'Annexos dins l'informe escrit.
